@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "email": "23f3002949@ds.study.iitm.ac.in",
+    "version": "d6a77579"
+  },
+  "products": [/* ALL 24 products from assignment - paste complete array here */],
+  "aggregations": {
+    "electronics": {
+      "count": 3,
+      "inventoryValue": 43480.54
+    }
+  }
+}
